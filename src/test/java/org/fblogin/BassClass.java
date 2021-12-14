@@ -27,6 +27,7 @@ public class BassClass {
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
+		System.out.println("testA");
 
 	}
 
