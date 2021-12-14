@@ -28,6 +28,8 @@ public class BassClass {
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		System.out.println("testA");
+		System.out.println("testB");
+		
 
 	}
 
